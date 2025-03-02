@@ -14,7 +14,6 @@
 -->
 
 ---
-<br>
 
 ## 🛠️ 목적 및 목표
 - 다양한 Task의 논문 리뷰 및 구현 경험
@@ -23,7 +22,6 @@
 - 논문 작성 및 포트폴리오 정리
 
 ---
-<br>
 
 ## 🛠️ 세션 소개
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
