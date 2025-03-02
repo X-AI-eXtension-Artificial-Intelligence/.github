@@ -3,6 +3,7 @@
 # X:AI
 
 *X:AI는 **eXtension: Artificial Intelligence**의 약자로, 학과 수업을 넘어 인공지능 논문을 주체적으로 읽고 구현하는 학회입니다.*
+
 다양한 인공지능 기초 지식을 학습하며, 관심 분야를 선정하여 컨퍼런스와 논문 토론 세션을 진행합니다. 딥러닝을 공부한 전공생을 대상으로 하며, 함께 공부하고 성장할 수 있는 분위기를 지향합니다.
 
 <!-- ---
@@ -15,7 +16,7 @@
 ---
 <br>
 
-## 📍목적 및 목표
+## 🛠️ 목적 및 목표
 - 다양한 Task의 논문 리뷰 및 구현 경험
 - Git & GitHub 활용 능력 배양
 - 활발한 커뮤니케이션 활성화
@@ -24,7 +25,7 @@
 ---
 <br>
 
-## 📍세션 소개
+## 🛠️ 세션 소개
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td style="background-color: #e0e0e0; padding: 10px; text-align: center; font-weight: bold; border: 1px solid #ddd;"><strong>BASE session</strong></td>
